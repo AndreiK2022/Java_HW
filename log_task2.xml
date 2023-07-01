@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2023-07-01T17:39:21.476645Z</date>
+  <millis>1688233161476</millis>
+  <nanos>645000</nanos>
+  <sequence>0</sequence>
+  <logger>HW02.Program</logger>
+  <level>INFO</level>
+  <class>HW02.Program</class>
+  <method>task2</method>
+  <thread>1</thread>
+  <message>Итерация 1</message>
+</record>
+<record>
+  <date>2023-07-01T17:39:21.517035Z</date>
+  <millis>1688233161517</millis>
+  <nanos>35000</nanos>
+  <sequence>1</sequence>
+  <logger>HW02.Program</logger>
+  <level>INFO</level>
+  <class>HW02.Program</class>
+  <method>task2</method>
+  <thread>1</thread>
+  <message>Итерация 2</message>
+</record>
+<record>
+  <date>2023-07-01T17:39:21.517708Z</date>
+  <millis>1688233161517</millis>
+  <nanos>708000</nanos>
+  <sequence>2</sequence>
+  <logger>HW02.Program</logger>
+  <level>INFO</level>
+  <class>HW02.Program</class>
+  <method>task2</method>
+  <thread>1</thread>
+  <message>Итерация 3</message>
+</record>
+<record>
+  <date>2023-07-01T17:39:21.518198Z</date>
+  <millis>1688233161518</millis>
+  <nanos>198000</nanos>
+  <sequence>3</sequence>
+  <logger>HW02.Program</logger>
+  <level>INFO</level>
+  <class>HW02.Program</class>
+  <method>task2</method>
+  <thread>1</thread>
+  <message>Итерация 4</message>
+</record>
+<record>
+  <date>2023-07-01T17:39:21.518660Z</date>
+  <millis>1688233161518</millis>
+  <nanos>660000</nanos>
+  <sequence>4</sequence>
+  <logger>HW02.Program</logger>
+  <level>INFO</level>
+  <class>HW02.Program</class>
+  <method>task2</method>
+  <thread>1</thread>
+  <message>Итерация 5</message>
+</record>
+<record>
+  <date>2023-07-01T17:39:21.519370Z</date>
+  <millis>1688233161519</millis>
+  <nanos>370000</nanos>
+  <sequence>5</sequence>
+  <logger>HW02.Program</logger>
+  <level>INFO</level>
+  <class>HW02.Program</class>
+  <method>task2</method>
+  <thread>1</thread>
+  <message>Итерация 6</message>
+</record>
+<record>
+  <date>2023-07-01T17:39:21.520016Z</date>
+  <millis>1688233161520</millis>
+  <nanos>16000</nanos>
+  <sequence>6</sequence>
+  <logger>HW02.Program</logger>
+  <level>INFO</level>
+  <class>HW02.Program</class>
+  <method>task2</method>
+  <thread>1</thread>
+  <message>Итерация 7</message>
+</record>
+<record>
+  <date>2023-07-01T17:39:21.520498Z</date>
+  <millis>1688233161520</millis>
+  <nanos>498000</nanos>
+  <sequence>7</sequence>
+  <logger>HW02.Program</logger>
+  <level>INFO</level>
+  <class>HW02.Program</class>
+  <method>task2</method>
+  <thread>1</thread>
+  <message>Итерация 8</message>
+</record>
+<record>
+  <date>2023-07-01T17:39:21.520941Z</date>
+  <millis>1688233161520</millis>
+  <nanos>941000</nanos>
+  <sequence>8</sequence>
+  <logger>HW02.Program</logger>
+  <level>INFO</level>
+  <class>HW02.Program</class>
+  <method>task2</method>
+  <thread>1</thread>
+  <message>Итерация 9</message>
+</record>
+<record>
+  <date>2023-07-01T17:39:21.521488Z</date>
+  <millis>1688233161521</millis>
+  <nanos>488000</nanos>
+  <sequence>9</sequence>
+  <logger>HW02.Program</logger>
+  <level>INFO</level>
+  <class>HW02.Program</class>
+  <method>task2</method>
+  <thread>1</thread>
+  <message>Итерация 10</message>
+</record>
+<record>
+  <date>2023-07-01T17:39:21.521906Z</date>
+  <millis>1688233161521</millis>
+  <nanos>906000</nanos>
+  <sequence>10</sequence>
+  <logger>HW02.Program</logger>
+  <level>INFO</level>
+  <class>HW02.Program</class>
+  <method>task2</method>
+  <thread>1</thread>
+  <message>Итерация 11</message>
+</record>
+<record>
+  <date>2023-07-01T17:39:29.358879Z</date>
+  <millis>1688233169358</millis>
+  <nanos>879000</nanos>
+  <sequence>11</sequence>
+  <logger>HW02.Program</logger>
+  <level>INFO</level>
+  <class>HW02.Program</class>
+  <method>task4</method>
+  <thread>1</thread>
+  <message>Введено: 4</message>
+</record>
+<record>
+  <date>2023-07-01T17:39:31.382363Z</date>
+  <millis>1688233171382</millis>
+  <nanos>363000</nanos>
+  <sequence>12</sequence>
+  <logger>HW02.Program</logger>
+  <level>INFO</level>
+  <class>HW02.Program</class>
+  <method>task4</method>
+  <thread>1</thread>
+  <message>Введено: 4</message>
+</record>
+<record>
+  <date>2023-07-01T17:39:34.371641Z</date>
+  <millis>1688233174371</millis>
+  <nanos>641000</nanos>
+  <sequence>13</sequence>
+  <logger>HW02.Program</logger>
+  <level>INFO</level>
+  <class>HW02.Program</class>
+  <method>task4</method>
+  <thread>1</thread>
+  <message>Операция: /</message>
+</record>
+</log>
