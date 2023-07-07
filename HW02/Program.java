@@ -22,7 +22,7 @@ public class Program {
             System.out.println("\n- Укажите номер задачи (1, 2 или 4): ");
             System.out.println("- Для завершения работы приложения введите 0\n");
             System.out.println("============================================\n");
-            int num = scanner.nextInt();;
+            int num = scanner.nextInt();
             
             switch(num){
 
